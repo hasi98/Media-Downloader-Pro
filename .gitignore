@@ -1,0 +1,19 @@
+# Node / Python / build junk
+node_modules/
+__pycache__/
+dist/
+build/
+
+# Logs
+*.log
+
+# Secrets
+.env
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Installer outputs
+*.exe
+*.msi

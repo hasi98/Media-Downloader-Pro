@@ -43,6 +43,10 @@ Whether you're archiving tutorials, saving music, or clipping specific moments, 
   Built-in dark mode for night use and reduced eye strain.
 
 ---
+## ⬇️ Download
+
+Download the latest version from: 
+https://github.com/hasi98/Media-Downloader-Pro/releases
 
 ## 🖥️ System Requirements
 

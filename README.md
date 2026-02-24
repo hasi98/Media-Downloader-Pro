@@ -6,6 +6,10 @@ Media Downloader Pro is a desktop application for downloading YouTube videos, pl
 Whether you're archiving tutorials, saving music, or clipping specific moments, Media Downloader Pro gives you full control with a simple interface.
 
 ---
+## ⬇️ Download
+
+Get the latest Windows installer here:  
+👉 https://github.com/hasi98/Media-Downloader-Pro/releases
 
 ## ✨ Features
 
